@@ -1,0 +1,11 @@
+service/AccessManager.class
+log/Logger.class
+model/SecurityLevel.class
+model/User.class
+model/Resource.class
+model/Role.class
+model/Read.class
+log/LogEntry.class
+model/Write.class
+model/Action.class
+model/Capability.class
